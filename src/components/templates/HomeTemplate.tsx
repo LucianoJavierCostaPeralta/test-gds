@@ -26,7 +26,7 @@ export function HomeTemplate() {
             Proyecto inicial
           </p>
           <h1 className="mt-4 max-w-2xl text-4xl font-bold leading-tight sm:text-5xl">
-            Pagina basica para practicar commits y ramas.
+            Feature | Titulo alternativo
           </h1>
           <p className="mt-4 max-w-2xl text-base leading-7 text-slate-600">
             Esta base es intencionalmente simple: sirve para hacer un commit
