@@ -1,4 +1,5 @@
 import { Container } from "@/components/atoms";
+import { CTAButton } from "@/components/atoms/CTAButton";
 import { Card } from "@/components/molecules";
 
 const cards = [
@@ -32,6 +33,9 @@ export function HomeTemplate() {
             inicial, luego separar tareas de layout, componentes y estilos sin
             mezclar todo.
           </p>
+          <div className="mt-8">
+            <CTAButton>Ver nas informacion</CTAButton>
+          </div>
         </section>
 
         <section id="componentes" className="mt-8 grid gap-4 md:grid-cols-3">
